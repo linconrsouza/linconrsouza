@@ -35,6 +35,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## 📚 Atualmente Estudando
 - Penúltimo ano de **Sistemas de Informação**.
 - Aprofundando em **hardware** e **montagem de equipamentos eletrônicos**.
+- Linguagens de Programação como por exemplo Java, Flutter, React, C#
 
 ## 🌱 Sempre em Busca de Aprendizado
 Com proficiência em **Flutter**, **Java**, **SQL**, **Delphi**, e um nível **intermediário de inglês**, estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento em tecnologia.
